@@ -12,7 +12,6 @@ html, body {
 .top_bar_set {
     background-color: white;
 }
-
 .vector1 {
     background-image: url("Millennial-bro.png");
     background-size: 500px;
@@ -64,7 +63,6 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
 }
-
 .flecha_up{   
     margin-top: 50px;
     background-image: url("flecha_up.png");
@@ -83,12 +81,10 @@ html, body {
 .foto_catologo:hover {
     background-image:#92e3a9;
 }
-
 .logo_b {
     background-image: url("t");
     background-repeat: no-repeat;
 }
-
 .logo_ig {
     background-image: url("instagram.png");
     transition: background-image 0.2s ease-in-out;
@@ -96,7 +92,6 @@ html, body {
 .logo_ig:hover {
     background-image: url("ig_verde.png")
 }
-
 .logo_correo {
     background-image: url("correo.png");
     background-repeat: no-repeat;
@@ -105,7 +100,6 @@ html, body {
 .logo_correo:hover {
     background-image: url("correo_verde.png")
 }
-
 .link {
     font-family: 'Poppins';
     color: black;  
@@ -116,12 +110,10 @@ html, body {
     color: #629871;
    
 }
-
 .foto_nosotros2 {
     background-image: url("test_foto_nosotros.png");
     background-size: 500px;
 }
-
 .foto {
     background-color: white;
     transition-property: background-color, background-size;
@@ -129,7 +121,6 @@ html, body {
     background-image: url("test_uniformes_1.jpg");
     filter: brightness(0.65);
 }
-
 .foto_2 {
     background-color: white;
     transition-property: background-color, background-size;
@@ -147,7 +138,6 @@ html, body {
     background-color: black;
     z-index: 10;   
 }
-
 .servicio {
     background-color: white;
     color: black; 
@@ -192,12 +182,10 @@ html, body {
         background-repeat: no-repeat;
     background-position: center;
 }
-
 .icon_autors {
     color: white;
     font-family: Consolas;
 }
-
 .icon_autors a {
     font-family: Consolas;
     color: white;
@@ -207,19 +195,16 @@ html, body {
 .icon_autors a:hover {
     color: blue;
 }
-
 .sostenible_div {
     background-image: url("pexels-designecologist-1287124.jpg");    
     background-size: 1350px;
     border-radius: 2px;
     z-index: 2;    
 }
-
 .foto_natura {
     background-image: url("pexels-ricardo-esquivel-3042582.jpg");
     z-index: 2;
 }
-
 .problema { 
     background-color: #a02626;
     background-image: url("broken-heart.png");
@@ -231,7 +216,6 @@ html, body {
 .problema:hover {
     background-image: url("");
 }
-
 .problema_2 {
     transition-property: background-color, background-image, color;
     transition: all 0.2s ease-in-out;
@@ -246,7 +230,6 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
 }
-
 .problema_2 > .cuadrado_bloq {
     background-color: transparent;
     transition: background-color 0.2s ease-in-out;
@@ -254,7 +237,6 @@ html, body {
 .problema_2:hover > .cuadrado_bloq {
     background-color: white;
 }
-
 .problema_3{  
     background-color: #a02626;
     background-image: url("combo_tshirt_snowflake%20(1).png");  
@@ -263,7 +245,6 @@ html, body {
     background-repeat: no-repeat;
     color: black;   
 }
-
 .problema_4 {
     transition-property: background-color, background-image, color;
     transition: all 0.2s ease-in-out;
@@ -279,7 +260,6 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
 }
-
 .problema_4 > .cuadrado_bloq {
     background-color: transparent;
     transition: background-color 0.2s ease-in-out;
@@ -287,7 +267,6 @@ html, body {
 .problema_4:hover > .cuadrado_bloq {
     background-color: white;
 }
-
 .problema_5{     
     background-color: #a02626;
     background-image: url("iconfinder-pollution-on-earth-4454725_119761.png");
@@ -296,7 +275,6 @@ html, body {
     background-repeat: no-repeat;
     color: black;
 }
-
 .problema_6 {
     transition-property: background-color, background-image, color;
     transition: all 0.2s ease-in-out;
@@ -311,7 +289,6 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;  
 }
-
 .problema_6 > .cuadrado_bloq {
     background-color: transparent;
     transition: background-color 0.2s ease-in-out;
@@ -319,12 +296,10 @@ html, body {
 .problema_6:hover > .cuadrado_bloq {
     background-color: white;
 }
-
 .nosotros{
     background-color: #f6f2f2;
     background-size: 1350px;
 }
-
 .foto_nosotros {
     background-image: url("test_foto_nosotros.jpg");
     background-size: 520px;
@@ -332,7 +307,6 @@ html, body {
     border-radius: 2px;
     box-shadow: 0px 0px 0px gray;
 }
-
 .boton {
     background-color: #92e3a9;
     color: black;
@@ -342,7 +316,6 @@ html, body {
     background-color: #b4ecc4; 
     color: #454545;
 }
-
 .icon_sostenible {
     box-shadow: 0px 0px 7px gray;
     background-image: url("");
@@ -357,7 +330,6 @@ html, body {
     filter: brightness(0.7);
     color: white;
 }
-
 .icon_sostenible_2 {
     box-shadow: 0px 0px 7px gray;
     background-image: url("");
@@ -372,7 +344,6 @@ html, body {
     filter: brightness(0.7);
     color: white;
 }
-
 .icon_sostenible_3 {
     box-shadow: 0px 0px 7px gray;
     background-image: url("");
@@ -387,7 +358,6 @@ html, body {
     filter: brightness(0.7);
     color: white;
 }
-
 .redonda_sosts_0 {
     background-image: url("talleres_locales.png");
     background-size: 250px;
@@ -401,7 +371,6 @@ html, body {
     background-image: url("circlo_solo_talleres_locales.png");
     transform: rotate(20deg); 
 }
-
 .redonda_sost {
     background-image: url("circulo_buenos_materiales.png");
     background-size: 250px;
@@ -416,7 +385,6 @@ html, body {
     transform: rotate(20deg);
     color: black
 }
-
 .redonda_sost_2 {
     background-image: url("cirulo_bueno_papel_sost.png");
     background-size: 250px;
@@ -429,16 +397,13 @@ html, body {
     background-image: url("circulo_solo_bolsas_papel_sost.png");
     transform: rotate(20deg)
 }
-
 .foto_preguntas {
     background-size: 1000px;
     background-image: url("test_2-uniformes.jpg")
 }
-
 .foto_catologo{
     background-size: 300px;
     transition: background-size 0.2s ease-in-out;
-
 }
 .foto_catologo:hover {
     background-size: 500px;
