@@ -1,0 +1,445 @@
+html > :last-child {
+    margin-bottom: 0 !important;
+    width: auto;
+}
+
+html, body {
+   margin: 0;
+   overflow-x: hidden !important;
+   padding: 0px;
+}
+
+.top_bar_set {
+    background-color: white;
+}
+
+.vector1 {
+    background-image: url("Millennial-bro.png");
+    background-size: 500px;
+}
+.vector2 {
+    background-image: url("disenador_pensando.png");
+    background-size: 500px;      
+}
+.vector3 {
+    background-image: url("cosedora.png");
+    background-size: 470px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.vector4 {
+    background-image: url("recepcionista.png");
+    background-size: 500px;
+}
+.vector5 {
+    background-image: url(fireworks.png);
+    background-size: 500px;
+}
+.vector6 {
+    background-image: url("contando_estrellas.png");
+    background-size: 500px;
+}
+.vector7 {
+    background-image: url("cuidar_planeta.png");
+    background-size: 500px;
+    background-repeat: no-repeat;
+}
+.vector8 {
+    background-image: url("ninos_mochila.png");
+    background-size: 500px;
+}
+.vector9 {
+    background-image: url("mano_tierra.png");
+    background-size: 500px;
+    background-position: center;
+}
+
+.green1 {
+    background-image: url("greee_solo1.png");
+    background-size: 500px;
+}
+.green2 {
+    background-image: url("green_solo2.png");
+    background-size: 440px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.flecha_up{   
+    margin-top: 50px;
+    background-image: url("flecha_up.png");
+    background-size: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: margin-top 0.3s ease-in-out;
+}
+.flecha_up:hover {
+    margin-top: 40px;
+}
+
+.foto_catologo {
+    background-color: transparent;
+}
+.foto_catologo:hover {
+    background-image:#92e3a9;
+}
+
+.logo_b {
+    background-image: url("t");
+    background-repeat: no-repeat;
+}
+
+.logo_ig {
+    background-image: url("instagram.png");
+    transition: background-image 0.2s ease-in-out;
+}
+.logo_ig:hover {
+    background-image: url("ig_verde.png")
+}
+
+.logo_correo {
+    background-image: url("correo.png");
+    background-repeat: no-repeat;
+    transition: background-image 0.3s ease-in-out;
+}
+.logo_correo:hover {
+    background-image: url("correo_verde.png")
+}
+
+.link {
+    font-family: 'Poppins';
+    color: black;  
+    transition-property: color, text-shadow;
+    transition: all 0.2s ease-in-out;
+}
+.link:hover {
+    color: #629871;
+   
+}
+
+.foto_nosotros2 {
+    background-image: url("test_foto_nosotros.png");
+    background-size: 500px;
+}
+
+.foto {
+    background-color: white;
+    transition-property: background-color, background-size;
+    transition: all 0.4s ease-in-out;
+    background-image: url("test_uniformes_1.jpg");
+    filter: brightness(0.65);
+}
+
+.foto_2 {
+    background-color: white;
+    transition-property: background-color, background-size;
+    transition: all 0.4s ease-in-out;
+    background-image: url("test_2-uniformes.jpg");
+    background-size: 540px;
+    background-position: -760px 0px;
+}
+.foto_2:hover {
+    background-size: 570px;
+}
+
+.div_nusetros_servicios{
+    background-image: url("");
+    background-color: black;
+    z-index: 10;   
+}
+
+.servicio {
+    background-color: white;
+    color: black; 
+   
+    transition: all 0.3s ease-in-out;
+    
+    transition-property: background-color, color, text-shadow, background-image;
+    text-shadow: 0px 0px 2px gray;   
+}
+.servicio:hover {
+    background-color: #E0E0CE;
+    color: transparent;
+    text-shadow: 0px 0px 0px transparent;
+    background-image: url("");
+}
+
+.second_servicio {
+    text-align: center;
+    background-color: transparent;
+    color: transparent;
+ 
+    transition-property: background-color, color;
+    transition: all 0.25s ease-in-out;
+}
+.second_servicio:hover {
+    background-color: #E0E0CE;
+    color: black;
+  }
+
+.icon {
+    background-image: url("polo-shirt.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.icon_2 {
+    background-image: url("sewing-machine.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.icon_3 {
+    background-image: url("clothing-store.png");
+        background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon_autors {
+    color: white;
+    font-family: Consolas;
+}
+
+.icon_autors a {
+    font-family: Consolas;
+    color: white;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+.icon_autors a:hover {
+    color: blue;
+}
+
+.sostenible_div {
+    background-image: url("pexels-designecologist-1287124.jpg");    
+    background-size: 1350px;
+    border-radius: 2px;
+    z-index: 2;    
+}
+
+.foto_natura {
+    background-image: url("pexels-ricardo-esquivel-3042582.jpg");
+    z-index: 2;
+}
+
+.problema { 
+    background-color: #a02626;
+    background-image: url("broken-heart.png");
+    background-size: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+}
+.problema:hover {
+    background-image: url("");
+}
+
+.problema_2 {
+    transition-property: background-color, background-image, color;
+    transition: all 0.2s ease-in-out;
+    color: transparent; 
+    background-position: center;  
+}
+.problema_2:hover {
+    color: black;
+    background-color: #6a994e;
+    background-image: url("love.png");
+    background-size: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.problema_2 > .cuadrado_bloq {
+    background-color: transparent;
+    transition: background-color 0.2s ease-in-out;
+}
+.problema_2:hover > .cuadrado_bloq {
+    background-color: white;
+}
+
+.problema_3{  
+    background-color: #a02626;
+    background-image: url("combo_tshirt_snowflake%20(1).png");  
+    background-size: 280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;   
+}
+
+.problema_4 {
+    transition-property: background-color, background-image, color;
+    transition: all 0.2s ease-in-out;
+    color: transparent;
+    
+    background-position: center;
+}
+.problema_4:hover {
+    color: black;
+    background-color: #6a994e;
+    background-image: url("polo-shirt.png");
+    background-size: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.problema_4 > .cuadrado_bloq {
+    background-color: transparent;
+    transition: background-color 0.2s ease-in-out;
+}
+.problema_4:hover > .cuadrado_bloq {
+    background-color: white;
+}
+
+.problema_5{     
+    background-color: #a02626;
+    background-image: url("iconfinder-pollution-on-earth-4454725_119761.png");
+    background-size: 280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.problema_6 {
+    transition-property: background-color, background-image, color;
+    transition: all 0.2s ease-in-out;
+    color: transparent; 
+    background-position: center;
+}
+.problema_6:hover {  
+    color: black;
+    background-color: #6a994e;
+    background-image: url("planet-earth.png");
+    background-size: 120px;
+    background-position: center;
+    background-repeat: no-repeat;  
+}
+
+.problema_6 > .cuadrado_bloq {
+    background-color: transparent;
+    transition: background-color 0.2s ease-in-out;
+}
+.problema_6:hover > .cuadrado_bloq {
+    background-color: white;
+}
+
+.nosotros{
+    background-color: #f6f2f2;
+    background-size: 1350px;
+}
+
+.foto_nosotros {
+    background-image: url("test_foto_nosotros.jpg");
+    background-size: 520px;
+    background-position: -50px -5px;
+    border-radius: 2px;
+    box-shadow: 0px 0px 0px gray;
+}
+
+.boton {
+    background-color: #92e3a9;
+    color: black;
+    transition: background-color 0.2s ease-in-out;
+}
+.boton:hover {
+    background-color: #b4ecc4; 
+    color: #454545;
+}
+
+.icon_sostenible {
+    box-shadow: 0px 0px 7px gray;
+    background-image: url("");
+    background-size: 270px;
+    background-position: center;
+    color: transparent;
+    transition-property: filter, background-size, color;
+    transition: all 0.2s ease-in-out;
+}
+.icon_sostenible:hover {
+    background-size: 300px;
+    filter: brightness(0.7);
+    color: white;
+}
+
+.icon_sostenible_2 {
+    box-shadow: 0px 0px 7px gray;
+    background-image: url("");
+    background-size: 320px;
+    background-position: 0px 0px;
+    color: transparent;
+    transition-property: filter, background-size, color;
+    transition: all 0.2s ease-in-out;
+}
+.icon_sostenible_2:hover {
+    background-size: 350px;
+    filter: brightness(0.7);
+    color: white;
+}
+
+.icon_sostenible_3 {
+    box-shadow: 0px 0px 7px gray;
+    background-image: url("");
+    background-size: 320px;
+    background-position: -15px -120px;
+    color: transparent;
+    transition-property: filter, background-size, color;
+    transition: all 0.2s ease-in-out;
+}
+.icon_sostenible_3:hover {
+    background-size: 350px;
+    filter: brightness(0.7);
+    color: white;
+}
+
+.redonda_sosts_0 {
+    background-image: url("talleres_locales.png");
+    background-size: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    transition-property: background-image, trasnform, color;
+    transition: all 0.2s ease-in-out;
+}
+.redonda_sosts_0:hover {
+    background-image: url("circlo_solo_talleres_locales.png");
+    transform: rotate(20deg); 
+}
+
+.redonda_sost {
+    background-image: url("circulo_buenos_materiales.png");
+    background-size: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    transition-property: background-image, trasnform, color;
+    transition: all 0.2s ease-in-out;
+}
+.redonda_sost:hover {
+    background-image: url("redonda_sola_materiales_sost.png");
+    transform: rotate(20deg);
+    color: black
+}
+
+.redonda_sost_2 {
+    background-image: url("cirulo_bueno_papel_sost.png");
+    background-size: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition-property: background-image, trasnform;
+    transition: all 0.2s ease-in-out;
+}
+.redonda_sost_2:hover {
+    background-image: url("circulo_solo_bolsas_papel_sost.png");
+    transform: rotate(20deg)
+}
+
+.foto_preguntas {
+    background-size: 1000px;
+    background-image: url("test_2-uniformes.jpg")
+}
+
+.foto_catologo{
+    background-size: 300px;
+    transition: background-size 0.2s ease-in-out;
+
+}
+.foto_catologo:hover {
+    background-size: 500px;
+}
